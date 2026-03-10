@@ -1,6 +1,5 @@
 ## Cecilia Studio
 
-[![](https://img.shields.io/badge/Bilibili-CeciliaStudio-blue?logo=bilibili)](https://space.bilibili.com/3690981213866829)
 [![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
 [![](https://img.shields.io/badge/https://-ceciliastudio.top-56ab82)](https://ceciliastudio.top)
 [![](https://img.shields.io/github/followers/CeciliaStudio)](https://github.com/orgs/CeciliaStudio/followers)
