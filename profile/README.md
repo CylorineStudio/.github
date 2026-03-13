@@ -15,4 +15,7 @@
 
 目前只有 @AnemoFlower 一人，如果您和我们有相同的兴趣，欢迎联系 `org@ceciliastudio.top` 加入！<br>
 
+> [!NOTE]
+> 本组织与 Mojang Studios/Microsoft 并无任何从属、合作或授权关系，Minecraft 及其相关内容的所有权归 Mojang Studios 及 Microsoft 所有。
+
 ~~这次不是 AI 写的了~~
