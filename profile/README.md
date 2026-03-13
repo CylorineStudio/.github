@@ -1,7 +1,7 @@
 ## Cecilia Studio
 
 [![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
-[![](https://img.shields.io/badge/https://-ceciliastudio.top-56ab82)](https://ceciliastudio.top)
+[![](https://img.shields.io/badge/https://-cylorine.studio-56ab82)](https://cylorine.studio)
 [![](https://img.shields.io/github/followers/CeciliaStudio)](https://github.com/orgs/CeciliaStudio/followers)
 
 ### 简介
