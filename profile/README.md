@@ -1,7 +1,7 @@
 ## Cylorine Studio
 
 > [!IMPORTANT]
-> 为了更好地体现组织创作方向，Cecilia Studio 已更名为 Cylorine Studio。<br>
+> Cecilia Studio 已更名为 Cylorine Studio。<br>
 > 完整公告：https://cylorine.studio/articles/rename-to-cylorine-studio
 
 [![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
