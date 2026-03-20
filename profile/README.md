@@ -3,6 +3,8 @@
 > [!IMPORTANT]
 > Cecilia Studio 已更名为 Cylorine Studio。<br>
 > 完整公告：https://cylorine.studio/articles/rename-to-cylorine-studio
+> 新 Logo 还没画完，先用紫黑块占位（
+> 
 
 [![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
 [![](https://img.shields.io/badge/https://-cylorine.studio-56ab82)](https://cylorine.studio)
