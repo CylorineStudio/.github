@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > Cecilia Studio 已更名为 Cylorine Studio。<br>
-> 完整公告：https://cylorine.studio/articles/rename-to-cylorine-studio
+> 完整公告：https://cylorine.studio/articles/rename-to-cylorine-studio <br>
 > 新 Logo 还没画完，先用紫黑块占位（
 > 
 
