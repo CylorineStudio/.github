@@ -13,7 +13,7 @@
 ### 简介
 
 这是一个专注于 Minecraft 相关内容的开发与探索的组织。<br>
-无论是模组、启动器，还是服务端与客户端（coming s∞n）的重制，这里应有尽有！<br>
+无论是模组、启动器，还是服务端与客户端（coming soon）的重制，这里应有尽有！<br>
 
 目前只有 @AnemoFlower 一人，如果您和我们有相同的兴趣，欢迎联系 `org@ceciliastudio.top` 加入！<br>
 
