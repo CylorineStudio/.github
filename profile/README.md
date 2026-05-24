@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/QQ_群聊-965051678-blue)](https://qm.qq.com/q/naq1YNlJqo)
 [![](https://img.shields.io/badge/https://-cylorine.studio-56ab82)](https://cylorine.studio)
-[![](https://img.shields.io/github/followers/CeciliaStudio)](https://github.com/orgs/CeciliaStudio/followers)
+[![](https://img.shields.io/github/followers/CylorineStudio)](https://github.com/orgs/CylorineStudio/followers)
 
 ### 简介
 
