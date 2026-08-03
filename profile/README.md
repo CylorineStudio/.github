@@ -13,7 +13,7 @@
 ### 简介
 
 这是一个专注于 Minecraft 相关内容的开发与探索的组织。<br>
-无论是模组、启动器，还是服务端与客户端（coming soon）的重制，这里应有尽有！<br>
+无论是模组、启动器，还是服务端与客户端（coming s∞n）的重制，这里应有尽有！<br>
 
 > [!NOTE]
 > 本组织与 Mojang Studios/Microsoft 并无任何从属、合作或授权关系，Minecraft 及其相关内容的所有权归 Mojang Studios 及 Microsoft 所有。
